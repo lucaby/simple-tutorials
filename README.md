@@ -1,6 +1,6 @@
 # simple-tutorials
 To help the beginner developer in need
 
-This repository contains my "trial and error" attempts to setup and run various types of softwares. The instructions might not work on every case, but it could shine a light over some shady or lengthy tutorials to get software up and running
+This repository (account?) contains my "trial and error" attempts in my data science path. My current objective is to get a "self-taught degree", since the internet made learning such a hard subject much more easier, with tons of materials around every corner. The main problem for most people is to make a good path for themselves to actually accomplish something worthwhile.
 
-This scribblings can (and will!) have some syntax errors and other problems, mostly because I'm working on my own projects while trying to learn about these softwares. Feel free to point out any errors or improve these notes :)
+Feel free to take a look around about my nice and not-so-nice accomplishments! Maybe I can inspire someone in my current state to grow their knowledge
